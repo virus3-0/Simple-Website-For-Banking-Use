@@ -1,0 +1,72 @@
+#box{ 
+  height: 100px;  
+  width: 80px;  
+  border: 3px ridge #ae275f;     
+  float: right;
+}
+
+#axis{
+  padding-left: 1cm;
+  height: 30px;  
+  width: 100px; 
+}
+
+#topaxis{
+  padding-left: 3.4cm;
+  padding-top: 10px;
+}
+#passport{
+  position: absolute;
+  object-position: right;
+  padding-left: .5%;
+  padding-top: 2.5cm;
+  
+}
+
+#outline{
+  position: absolute;
+  height: 300px;  
+  width: 430px;  
+  border: 3px ridge #ae275f;
+}
+
+#outline2{
+  position: absolute;
+  margin-top: 1.6CM;
+  padding-top: 5cm;
+  height: 51px;  
+  width: 427px;  
+  border: 4px ridge #ae275f;
+}
+
+#result{
+  padding-left: 200%;
+}
+
+#paragraph{
+  padding-left: .5cm;
+}
+
+#watermark{
+  position: fixed;
+   bottom: 1px;
+   opacity: 0.4;
+   z-index: 99;
+   color: white;
+   user-select: none;
+   height: 4cm;
+   width: 5cm;
+   padding-left: 3cm;
+   padding-bottom: 12.5cm;
+}
+
+#under{
+  position: absolute;
+  padding-left: 3.8px;
+  height: 1.3cm;
+  width: 11.3cm;
+}
+
+#upper{
+  width: 11.5cm;
+}
